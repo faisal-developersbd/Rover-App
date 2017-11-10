@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Rover App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fb4adab850e84619cedb5f6310f194e22951bc2">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c0e8cddc2b4ae3eabe7fe7b6cf7f52f148e6068c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Rover App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_81bf98b3e0c631fedd789282c37763209750502c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\edc169b51d405f5dc45affab5627aab9f708c76f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a8b7b64057b2e32b364361447bf4cab0b94873e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faisal-shakiba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_42994ac6de747a59007928e35d53a8f3c95517af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\e59125eac034b9e1bb57aa2cb950849037d9afe8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a213410958cef42bf12cfe784572d602942d2a75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\e59125eac034b9e1bb57aa2cb950849037d9afe8\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Rover App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_5f5b17437098d45e8bef69c62199ef9d3cc1fde7\classes.dex" />
+    </item>
+
+</items>

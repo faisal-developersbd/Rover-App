@@ -1,0 +1,13 @@
+#Fri Aug 18 04:29:55 BDT 2017
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_5f5b17437098d45e8bef69c62199ef9d3cc1fde7
+base.2=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a213410958cef42bf12cfe784572d602942d2a75
+base.1=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8a8b7b64057b2e32b364361447bf4cab0b94873e
+base.0=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_42994ac6de747a59007928e35d53a8f3c95517af
+file.3=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_5f5b17437098d45e8bef69c62199ef9d3cc1fde7\\classes.dex
+file.2=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a213410958cef42bf12cfe784572d602942d2a75\\classes.dex
+file.1=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8a8b7b64057b2e32b364361447bf4cab0b94873e\\classes.dex
+file.0=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_42994ac6de747a59007928e35d53a8f3c95517af\\classes.dex

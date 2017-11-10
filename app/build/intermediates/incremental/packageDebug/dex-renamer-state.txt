@@ -1,0 +1,7 @@
+#Fri Aug 18 04:29:57 BDT 2017
+base.0=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_81bf98b3e0c631fedd789282c37763209750502c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0e8cddc2b4ae3eabe7fe7b6cf7f52f148e6068c\\classes.dex
+base.1=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c0e8cddc2b4ae3eabe7fe7b6cf7f52f148e6068c
+file.0=D\:\\Rover App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_81bf98b3e0c631fedd789282c37763209750502c\\classes.dex

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down_right.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\down_right.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up_right.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\up_right.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_up.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up_left.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\up_left.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg1.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\bg1.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\robot5.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\robot5.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warn1.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\warn1.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unlock.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rover1.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\rover1.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop2.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\stop2.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\robot2.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\robot2.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode3.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\mode3.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\robot3.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\robot3.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warning_blue.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\warning_blue.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rover3.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\rover3.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\warning.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mode2.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\mode2.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_down.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down_left.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\down_left.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\robot4.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\robot4.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rover2.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\rover2.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\faisal-shakiba\\.android\\build-cache\\edc169b51d405f5dc45affab5627aab9f708c76f\\output\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "D:\\Rover App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_left.png",
+        "source": "D:\\Rover App\\app\\src\\main\\res\\drawable-hdpi\\arrow_left.png"
+    }
+]
